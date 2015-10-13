@@ -159,7 +159,6 @@ backbox   3050  0.0  0.0   4448   860 pts/5    Ss   12:52   0:00 sh -c sudo serv
 root      3083  0.0  0.1  71316  4272 ?        Ss   12:52   0:00 /usr/sbin/apache2 -k start
 www-data  3084  0.0  0.1 426096  6664 ?        Sl   12:52   0:01 /usr/sbin/apache2 -k start
 www-data  3085  0.0  0.1 491632  6716 ?        Sl   12:52   0:01 /usr/sbin/apache2 -k start
-backbox   3143  0.0  0.1  30168  5776 pts/5    S    12:52   0:00 /bin/bash
 root      3155  0.0  0.1  92628  4488 pts/5    S    12:53   0:00 sudo -i
 root      3156  0.0  0.1  30164  5712 pts/5    S    12:53   0:00 -bash
 root      3428  0.0  0.0      0     0 ?        S    13:22   0:00 [kworker/0:0]
